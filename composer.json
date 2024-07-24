@@ -1,0 +1,16 @@
+{
+  "name": "alfonzm/wkhtmltoimage-arm64",
+  "description": "wkhtmltoimage binaries for ARM64",
+  "keywords": [
+    "wkhtmltoimage",
+    "arm64"
+  ],
+  "version": "1.0.0",
+  "bin": [
+    "bin/wkhtmltoimage"
+  ],
+  "license": "LGPL-3.0-only",
+  "homepage": "http://wkhtmltopdf.org/",
+  "minimum-stability": "stable",
+  "require": {}
+}
